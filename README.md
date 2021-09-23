@@ -8,7 +8,7 @@
 
 Как пользоваться:
   1. Логенимся на https://my.telegram.org/auth
-  2. Созаём Приложение на https://my.telegram.org/apps
+  2. Создаём Приложение на https://my.telegram.org/apps
   3. Выписываем оттуда API_ID и API_HASH, и вставляем в main.py
   4. Скачиваем ffmpeg с https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z (или с https://www.ffmpeg.org/download.html)
   5. Распаковываем из папки bin/ файл ffmpeg.exe в папку с ботом
